@@ -1,3 +1,5 @@
+#Primera prueba
+
 from machine import Pin as pin
 from utime import sleep as pausa, sleep_ms as pausam
 puerto=[15,2,4,16,17,18,19,21,3,1]
